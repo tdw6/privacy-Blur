@@ -54,5 +54,6 @@ public class PrivacyBlurDialog extends Dialog {
         layoutParams.y = 15;  //顶部偏移15
         window.setAttributes(layoutParams);
         window.setDimAmount(0.75f);
+        //this is git test
     }
 }
